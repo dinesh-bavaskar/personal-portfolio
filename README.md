@@ -31,3 +31,24 @@ The website is designed with a clean layout, structured sections, and a user-fri
 - 📂 Dedicated projects and skills showcase
 
 ---
+
+## 📌 Sections Included
+
+- Home / Introduction
+- Skills & Technologies
+- Projects Showcase
+- About Me
+- Contact
+
+---
+
+## 🎯 Purpose of the Project
+
+- Establish a professional online presence
+- Showcase development projects and skills
+- Practice responsive web design principles
+- Build a production-style portfolio website
+
+---
+
+⭐ If you find this project interesting, feel free to star the repository!
